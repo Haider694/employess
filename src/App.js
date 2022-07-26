@@ -28,7 +28,7 @@ function App() {
     setUsers(data)
   }
   }
- 
+//  nikhil
   const unCheck=(event)=>{
     if (event.target.checked) {
       const u = data.filter((f)=>
